@@ -8,7 +8,9 @@
   // light theme background colors
 
   --primary-dark-bg: #003366;
+  // --secondary-dark-bg: #f3f3ee;
   --secondary-dark-bg: #ffffff;
+  // --therd-dark-bg: #ffffff;
   --therd-dark-bg: #f2f3f5;;
   --read-more-color: #003366;
   
@@ -16,12 +18,23 @@
 
   --quest-hoverbg: #E9EEF6;
 
+  // --primary-color: #003366;
+  // --text-color: #333333;
+  // --copy-right: rgb(31 41 55);
+
   --tw-shadow-color: rgba(60, 64, 67, 0.3);
 
   --mobile-padding: 0.6rem;
 }
 
 [data-theme="dark"] {
+  // --white: #f9f9f9;
+  // --black: #303030;
+  // --primary: #fff;
+  // --primary-color: #212121;
+  // --primary-dark-bg: #212121;
+  // --text-color: #ffffff;
+  // --copy-right: rgb(33 33 33);
 
   // dark theme text colors
   --white: #c3c3c3;
@@ -41,6 +54,16 @@
 
 
   --quest-hoverbg: #444444;
+
+  // --active: #2673b0;
+  // --hover: #337ab7;
+
+  // --secondary: #919191;
+  // --secondary-dark-bg: #3f3e3e;
+
+  // --border-color: #1f1f1f;
+  // --tw-shadow: 0 -2px 10px rgba(255, 255, 255, 0.1);
+  // --background-color: #1a1a1a;
 
 
 }
@@ -401,23 +424,6 @@ body {
 
                 border: none;
                 flex-grow: 1;
-              }
-            }
-          }
-
-
-
-          .trending-questions {
-
-
-
-            .question-content {
-              h4 {
-                background-color: #e1f0ff;
-                line-height: 1.6;
-                padding: 0.4rem .6rem;
-                border-radius: 8px;
-                margin-bottom: 0.6rem;
               }
             }
           }

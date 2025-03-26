@@ -242,6 +242,13 @@ body {
   border: none;
   flex-grow: 1;
 }
+.mainContainer .bodyContainer .workingContainer .thin_width .conents_c .trending-questions .question-content h4 {
+  background-color: #e1f0ff;
+  line-height: 1.6;
+  padding: 0.4rem 0.6rem;
+  border-radius: 8px;
+  margin-bottom: 0.6rem;
+}
 .mainContainer .bodyContainer .workingContainer .thin_width .foot_c {
   width: 100%;
 }
